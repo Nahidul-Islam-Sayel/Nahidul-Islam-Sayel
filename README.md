@@ -8,7 +8,7 @@ I participated in many online/offline programming contests. I Solve more than 85
 
 
 
-- 🔭 I’m currently working on this page. 
+
 - 💬 Ask me about Web Development  
 - 📫 How to reach me: nahidulislamsayel@gmail.com 
 
