@@ -1,5 +1,5 @@
 
-<img src="https://ibb.co/NCgVMSn" alt="Image Alt Text">
+<a href="https://ibb.co/NCgVMSn"><img src="https://i.ibb.co/7CxYq4N/Web-developer-1.png" alt="Web-developer-1" border="0"></a>
 
 <h1 align="center">Hi 👋, I'm Nahidul Islam Sayel</h1>
 <h3 align="center">A passionate Mern Stack developer from Bangladesh</h3>
