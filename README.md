@@ -1,10 +1,4 @@
-![A passionate Mern Stack developer from Bangladesh](https://i.imgur.com/7D5wSOp.png)
-### Hi there 👋, my name is  Nahidul Islam Sayel
-#### A passionate Mern Stack developer from Bangladesh
 
-
-Motivated CSE graduate seeking an opportunity to apply software development skills in innovative projects. Eager to learn and grow within a collaborative team. 
-I participated in many online/offline programming contests. I Solve more than 850+ Problems from Online Judge. 
 
 ### Hi there 👋, my name is  Nahidul Islam Sayel
 #### A passionate Mern Stack developer from Bangladesh
