@@ -6,7 +6,7 @@
 Motivated CSE graduate seeking an opportunity to apply software development skills in innovative projects. Eager to learn and grow within a collaborative team. 
 I participated in many online/offline programming contests. I Solve more than 850+ Problems from Online Judge. 
 
-Skills:  REACT / JS / HTML / CSS/ Tailwind CSS/ Bootstrap/ Node Js / Express Js/ MongoDB / Mongoose
+
 
 - 🔭 I’m currently working on this page. 
 - 💬 Ask me about Web Development  
