@@ -8,7 +8,7 @@ I participated in many online/offline programming contests. I Solve more than 85
 
 Skills:  REACT / JS / HTML / CSS/ Tailwind CSS/ Bootstrap/ Node Js / Express Js/ MongoDB / Mongoose
 
-- 🔭 I’m currently working on this page. 
+ 
 - 💬 Ask me about Web Development  
 - 📫 How to reach me: nahidulislamsayel@gmail.com 
 
